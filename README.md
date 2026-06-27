@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Megha Kunder 👋
 
-<!--
-**meghakunder/meghakunder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst
 
-Here are some ideas to get you started:
+Transitioning into Data Analytics with 3 years of IT experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- SQL
+- Python
+- Power BI
+- Excel
+- MySQL
+- Pandas
+- NumPy
+- Scikit-learn
+
+## Featured Projects
+
+### 📊 Customer Behavior Analysis
+End-to-end analytics project using SQL, Python, MySQL and Power BI.
+
+### 📈 Loan Approval Prediction
+Machine learning project using Logistic Regression.
+
+### 📉 SuperStore Sales Dashboard
+Interactive Power BI dashboard for sales and profitability analysis.
+
+### 📋 Retail Sales Dashboard
+Excel dashboard built using Pivot Tables, Pivot Charts and Slicers.
+
+## Certifications
+Data Analytics with AI Certification (Physics Wallah | NSDC | PwC)
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/megha-b-kunder-42788a17b
+- GitHub: github.com/meghakunder
