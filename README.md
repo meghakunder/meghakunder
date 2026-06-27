@@ -25,6 +25,9 @@ Machine learning project using Logistic Regression.
 ### 📉 SuperStore Sales Dashboard
 Interactive Power BI dashboard for sales and profitability analysis.
 
+### 👥 HR Analytics Dashboard
+Multi-page Power BI dashboard analyzing promotions, workforce demographics, performance metrics, retrenchment trends and employee insights.
+
 ### 📋 Retail Sales Dashboard
 Excel dashboard built using Pivot Tables, Pivot Charts and Slicers.
 
