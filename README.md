@@ -1,18 +1,18 @@
-# Hi, I'm Megha Kunder 👋
+# Hi, I'm Megha B Kunder 👋
 
 ### Aspiring Data Analyst
 
-Transitioning into Data Analytics with 3 years of IT experience.
+Transitioning into Data Analytics with 3 years of IT experience in Oracle BI Publisher reporting and a portfolio of end-to-end analytics projects in SQL, Python, and Power BI.
 
-## Skills
-- SQL
-- Python
-- Power BI
-- Excel
-- MySQL
-- Pandas
-- NumPy
-- Scikit-learn
+## 🛠️ Skills
+
+Languages: SQL, Python
+
+Visualization Tools: Power BI, Excel
+
+Database: MySQL
+
+Libraries: Pandas, NumPy, Scikit-learn,Matplotlib
 
 ## Featured Projects
 
@@ -31,9 +31,7 @@ Multi-page Power BI dashboard analyzing promotions, workforce demographics, perf
 ### 📋 Retail Sales Dashboard
 Excel dashboard built using Pivot Tables, Pivot Charts and Slicers.
 
-## Certifications
-Data Analytics with AI Certification (Physics Wallah | NSDC | PwC)
+## 📫 Connect With Me
 
-## Connect With Me
-- LinkedIn: www.linkedin.com/in/megha-b-kunder-42788a17b
-- GitHub: github.com/meghakunder
+- 🔗 [LinkedIn](https://www.linkedin.com/in/megha-b-kunder-42788a17b/)
+- 💻 [GitHub](https://github.com/meghakunder)
