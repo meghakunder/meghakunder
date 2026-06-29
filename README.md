@@ -8,7 +8,7 @@ Transitioning into Data Analytics with 3 years of IT experience in Oracle BI Pub
 
 Languages: SQL, Python
 
-Visualization Tools: Power BI, Excel
+Visualization Tools: Power BI, Excel ,Jupyter Notebook
 
 Database: MySQL
 
