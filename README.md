@@ -23,7 +23,7 @@ End-to-end analytics project using SQL, Python, MySQL and Power BI.
 Machine learning project using Logistic Regression.
 
 ### 📉 SuperStore Sales Dashboard
-Interactive Power BI dashboard for sales and profitability analysis.
+Power BI dashboard built on the SuperStore dataset featuring sales analysis, returns, KPIs, and 15-day forecasting.
 
 ### 👥 HR Analytics Dashboard
 Multi-page Power BI dashboard analyzing promotions, workforce demographics, performance metrics, retrenchment trends and employee insights.
